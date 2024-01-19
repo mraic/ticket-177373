@@ -1,0 +1,1 @@
+export APP_FILE="/home/user/media/"
