@@ -1,3 +1,4 @@
+/*
 package com.citi.test.examples;
 
 import com.aspose.html.drawing.Margin;
@@ -19,16 +20,22 @@ import java.util.stream.Collectors;
 
 @RestController
 public class TestController {
-    /*windows
+    */
+/*windows
     private static final String cssFileDir = "mle_mc_styles.css";
     private static final String htmlfileDir = "index.html";
     private static final String htmlWithCssfileDir = "hello1.html";
     private static final String outputPDF = "Output.pdf";
+    *//*
+
+
+
     */
+/*Linux
 
+import org.springframework.web.bind.annotation.GetMapping;
 
-    /*Linux*/
-    private static final String cssFileDir = "mle_mc_styles.css";
+private static final String cssFileDir = "mle_mc_styles.css";
     private static final String htmlfileDir = "index.html";
     private static final String htmlWithCssfileDir = "hello1.html";
     private static final String outputPDF = "mle_mc_styles.css";
@@ -95,3 +102,4 @@ public class TestController {
     }
 
 }
+*/
